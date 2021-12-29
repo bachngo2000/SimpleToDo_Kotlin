@@ -34,7 +34,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+    After finishing the last video tutorial, I had an issue running the app because it kept crashing.  I talked to Reach Vann, and he was able to figure out a solution to my problem, which was that the minimum required SDK version to run was 26, but I had it as 21.
 
 ## License
 
